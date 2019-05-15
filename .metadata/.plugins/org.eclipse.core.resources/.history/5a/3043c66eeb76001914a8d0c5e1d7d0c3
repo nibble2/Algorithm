@@ -1,0 +1,19 @@
+package basic1 ;
+
+import java.util.Scanner ;
+
+public class basic1 {
+	public static void main(String args) {
+		Scanner sc = new Scanner(System.in) ;
+		int T = sc.nextInt() ;
+		int [] num = null ; //배열을 선언할 때 null로 선언
+		
+		for(int i=1; i<=T; i++) {
+			for(int j=0; j<10; j++) { //학생수만큼 점수를 입력한다.
+				num[j] = sc.nextInt() ;
+			}
+			
+		}
+		
+	}
+}

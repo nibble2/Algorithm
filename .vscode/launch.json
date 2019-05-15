@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soul",
+            "request": "launch",
+            "mainClass": "Soul",
+            "projectName": "Algorithm_e76ad8d6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Algorithm_e76ad8d6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Algo",
+            "request": "launch",
+            "mainClass": "Algo",
+            "projectName": "Algorithm_e76ad8d6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testAlgo",
+            "request": "launch",
+            "mainClass": "testAlgo",
+            "projectName": "Algorithm_e76ad8d6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soul_1289",
+            "request": "launch",
+            "mainClass": "Soul_1289",
+            "projectName": "algorithm_6ff8b8f6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - solution",
+            "request": "launch",
+            "mainClass": "solution",
+            "projectName": "algorithm_6ff8b8f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EAIServiceMapMsgTest",
+            "request": "launch",
+            "mainClass": "interfacesdk.service.EAIServiceMapMsgTest"
+        }
+    ]
+}
